@@ -1,0 +1,6 @@
+Miejsce        Wynik        Nazwa gracza
+1              0            brak nazwy
+2              0            brak nazwy
+3              0            brak nazwy
+4              0            brak nazwy
+5              0            brak nazwy
